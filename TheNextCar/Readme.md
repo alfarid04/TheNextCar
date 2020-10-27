@@ -72,4 +72,5 @@ The Next Car adalah sebuah contoh project MVC yang dibuat dengan tujuan pada kea
         }
 ```
  
-> Tai kuda
+> alfarid p.yusuf
+>19.11.2841
