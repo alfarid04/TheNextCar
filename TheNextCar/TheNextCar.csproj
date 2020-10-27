@@ -7,11 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Assets\navigation.jpg" />
     <None Remove="MAP RIZKO.jpeg" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Assets\MAP RIZKO.jpeg" />
+    <Resource Include="Assets\navigation.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
 
 </Project>
